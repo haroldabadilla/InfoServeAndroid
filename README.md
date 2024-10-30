@@ -1,30 +1,3 @@
----
-
-```markdown
-# InfoServeAndroid
-
-A React Native application for InfoServe that renders a WebView, complete with pull-to-refresh functionality, a loading indicator, and offline handling. This app is specifically designed for Android devices.
-
-## Table of Contents
-
-- [Features](#features)
-- [Prerequisites](#prerequisites)
-- [Setup Instructions](#setup-instructions)
-  - [1. Clone the Repository](#1-clone-the-repository)
-  - [2. Install Dependencies](#2-install-dependencies)
-  - [3. Set Up the Android Environment](#3-set-up-the-android-environment)
-  - [4. Connect Your Android Device](#4-connect-your-android-device)
-  - [5. Run the App on Your Android Device](#5-run-the-app-on-your-android-device)
-- [Additional Configurations](#additional-configurations)
-  - [Changing the App Name](#changing-the-app-name)
-  - [Changing the App Icon](#changing-the-app-icon)
-- [Building a Release APK](#building-a-release-apk)
-- [Troubleshooting](#troubleshooting)
-- [License](#license)
-- [Contact](#contact)
-
----
-
 ## Features
 
 - **WebView Rendering**: Displays web content within the app.
@@ -53,7 +26,7 @@ Before you begin, ensure you have met the following requirements:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/InfoServe-Services/InfoServeAndroid.gi
+git clone https://github.com/InfoServe-Services/InfoServeAndroid.git
 cd InfoServeApp
 ```
 
